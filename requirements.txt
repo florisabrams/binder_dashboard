@@ -1,6 +1,9 @@
-numpy == 1.16.5
+numpy == 1.18.1
 GeoPandas == 0.8.0
 Pandas == 1.2.2
 matplotlib == 3.3.4
-jupyter-dash == 0.4.0 
+jupyter-dash == 0.4.0
+plotly == 4.8.0
+dash == 1.13.3
+
 
